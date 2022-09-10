@@ -1,6 +1,6 @@
 {
-  "name": "Practice 2 Invoke Workflow",
-  "description": "UIPath Academy\r\n",
+  "name": "Simple_Interest_Calculator",
+  "description": "This is a simple interest calculator using separate workflows and arguments.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
